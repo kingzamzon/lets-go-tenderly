@@ -1,11 +1,12 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 What Tenderly?](README.md)
 
-## Overview
+## GET STARTED
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 What we do](get-started/what-we-do.md)
+* [✨ Our Features](get-started/our-features.md)
+* [📩 Installation](get-started/installation.md)
 
 ## Product Guides
 
